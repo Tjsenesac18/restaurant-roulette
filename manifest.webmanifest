@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "Restaurant Roulette",
-  "short_name": "Restaurant Roulette",
+  "name": "Restaurant Pick",
+  "short_name": "Restaurant Pick",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
